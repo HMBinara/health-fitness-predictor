@@ -1,2 +1,5 @@
 # health-fitness-predictor
-End-to-end Health &amp; Fitness prediction project using Python, Streamlit, and a pre-trained ML model. Includes clean UI, model loading, and prediction pipeline.
+
+End-to-end Health & Fitness prediction project using Python, Streamlit, and a pre-trained ML model. Includes a small Streamlit UI to load a pickle model and run single-row predictions.
+
+
